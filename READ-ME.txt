@@ -1,0 +1,30 @@
+1)  open login.html page.
+    in this page I have 3 accounts.
+    a) name:DHRUVISH
+       pwd:Dhruvish123
+    
+    b) name:admin
+       pwd:admin
+   
+     c) name:visitor
+        pwd:visitor
+
+2) mobile.html and mobile2.html is for shop the mobile iPhone and Samsung respectivsely.
+   
+3) once you are in the log in page you have to enter username and password in order to go to home page.
+4) search is working , You do not need to click on the search button ,
+    you just type in serach bar and it will search acoordingly.
+    it will search only mobiles.
+    
+by clicking on add to cart button which is in the mobile and mobile2.html page
+	you will be able to items that you added.
+	by clicking > button checkout page will open.
+
+	now in order to close this box you nees to click on < button and then cart button .
+5) cart > checkout form
+	I validate 
+	card number like = 1111 1111 1111 1111
+	cvv like = 111
+	date like = 2019/11 i.e year/date
+	city=Aa i.e Capital letter followed by small letter
+	email like=abc@gmail.com
